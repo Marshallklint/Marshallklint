@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Marshallklint
 - 👀 I’m interested in software technology
 - 🌱 I’m currently learning software engineering
-- 💞️ I’m looking to collaborate on healthcare software
+- 💞️ I’m looking to collaborate on healthcare software and others
 - 📫 How to reach me : clintonfreddy74@yahoo.com
 
 <!---
